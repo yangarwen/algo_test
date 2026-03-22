@@ -1,0 +1,5 @@
+{
+  "name": "Algorithm Tutor Pro",
+  "description": "An interactive algorithm practice app that uses the Socratic method to guide users through LeetCode-style problems without giving direct code answers.",
+  "requestFramePermissions": []
+}
